@@ -55,6 +55,7 @@ If you find our code helpful in your research or work please cite our paper.
 ```
 ## Other implementations
 [Keras Blog](https://blog.sicara.com/keras-generative-adversarial-networks-image-deblurring-45e3ab6977b5).
+
 [Keras Repository](https://github.com/RaphaelMeudec/deblur-gan).
 
 
